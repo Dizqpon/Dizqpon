@@ -1,5 +1,5 @@
 - 👋 Hola, Soy @Dizqpon
-- 👀 Estoy interesado en aprender a programar en JAVA, JavaScript, React, Node.js...
+- 👀 Estoy interesado en aprender a programar en JAVA, JavaScript, Node.js...etc.
 - 🌱 Actualmente estoy aprendiendo Java en todas sus facetas para intentar convertirme en un programador backend, pero tambi
 - 💞️ Busco colaborar en proyectos para seguir aprendiendo y crecer como programador.
 - 📫 Como contactarme:
