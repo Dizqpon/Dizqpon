@@ -12,7 +12,8 @@ Soy un desarrollador web especializado en el backend, con un enfoque particular 
 
 ## 📫 Cómo contactarme
 
-- [Email](mailto:david.iz.po@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/david-iz-po/])
+- [Correo Electrónico](mailto:david.iz.po@gmail.com)
 
 ## 😄 Pronombres
 
