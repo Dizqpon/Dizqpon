@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"/>
+<i class="ci ci-git ci-md"></i>
 # Hola, soy David Izquierdo 👋
 
 ![David Izquierdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizqpon&show_icons=true&theme=radical)
@@ -12,7 +14,7 @@ Soy un desarrollador web especializado en el backend, con un enfoque particular 
 
 ## 📫 Cómo contactarme
 
-- [LinkedIn: david-iz-po](https://www.linkedin.com/in/david-iz-po/)
+- ![LinkedIn](https://www.linkedin.com/in/david-iz-po/)
 - [Correo Electrónico](mailto:david.iz.po@gmail.com)
 - [Twiter: DavidIzPo](https://twitter.com/DavidIzPo)
 
